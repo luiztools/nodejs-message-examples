@@ -1,0 +1,16 @@
+{
+  "name": "telegram",
+  "version": "1.0.0",
+  "description": "A simple Node.js app that send messages to Telegram users.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "keywords": [],
+  "author": "LuizTools",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv-safe": "^8.2.0",
+    "telegraf": "^4.4.2"
+  }
+}
