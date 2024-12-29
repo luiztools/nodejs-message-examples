@@ -1,0 +1,17 @@
+{
+  "name": "sendgrid",
+  "version": "1.0.0",
+  "description": "A simple Node.js + SendGrid example.",
+  "main": "index.js",
+  "dependencies": {
+    "@sendgrid/mail": "^7.4.2",
+    "dotenv-safe": "^8.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index"
+  },
+  "keywords": [],
+  "author": "LuizTools",
+  "license": "MIT"
+}
