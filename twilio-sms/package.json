@@ -1,5 +1,5 @@
 {
-  "name": "wpp",
+  "name": "twilio-sms",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,8 +7,8 @@
     "start": "node -r dotenv/config index"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "LuizTools",
+  "license": "MIT",
   "dependencies": {
     "dotenv": "^10.0.0",
     "twilio": "^3.66.0"

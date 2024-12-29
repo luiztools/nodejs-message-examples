@@ -1,19 +1,12 @@
-# nodejs-twilio
-Simple Twilio API examples in Node.js (monorepo).
+# nodejs-message-examples
+Simple message apps examples in Node.js.
 
-## SMS
-Instructions at his readme file.
+Instructions at each readme file.
 
-Instruções no seu arquivo readme.
+## More
 
-## WhatsApp
-Tutorial: https://www.luiztools.com.br/post/como-enviar-mensagens-de-whatsapp-em-node-js-via-twilio/
+Conheça meus cursos: https://www.luiztools.com.br/meus-cursos
 
-To run:
-- make all configs in the Twilio panel for WhatsApp
-- cd wpp
-- create the .env file with your settings
-- change the destination number in the index.js
-- npm i
-- npm start
-- Wpp message sent!
+Conheça meus livros: https://www.luiztools.com.br/meus-livros
+
+Me siga nas redes sociais: https://about.me/luiztools
